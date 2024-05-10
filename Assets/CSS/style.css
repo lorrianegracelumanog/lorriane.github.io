@@ -229,6 +229,15 @@ a {
     background-color: #242627;
  }
 
+ @media screen and (max-width: 767px){
+    section {
+        padding: 60px 20 px;
+    }
+
+    .card {
+        margin-bottom: 20px;
+    }
+ }
  
 
  
